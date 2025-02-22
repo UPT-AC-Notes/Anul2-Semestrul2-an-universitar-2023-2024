@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Vlad/Desktop/final
+vCacheController_tb
+!s110 1717130534
+!i10b 1
+!s100 D9En6G`CEJMFi;]oC4B4S1
+IQ@6445Cm[i1@e:zS;=_lQ1
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1717128364
+8cache_tb.v
+Fcache_tb.v
+L0 1
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1717130534.000000
+!s107 cache_tb.v|cache.v|
+!s90 -reportprogress|300|cache.v|cache_tb.v|
+!i113 1
+tCvgOpt 0
+n@cache@controller_tb

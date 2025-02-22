@@ -1,0 +1,1112 @@
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:29:54 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# -- Compiling module CSkA_tb
+# 
+# Top level modules:
+# 	CSkA_tb
+# End time: 20:29:54 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" CSkA_tb 
+# Start time: 20:29:54 on Mar 28,2024
+# Loading work.CSkA_tb
+# Loading work.CSkA
+# Loading work.makeXor
+# Loading work.RCA
+# Loading work.FAC
+# Loading work.RCA_Star
+# Loading work.FAC_Star
+# ** Note: $finish    : correctedAdunare.v(234)
+#    Time: 10 ps  Iteration: 0  Instance: /CSkA_tb
+# 1
+# Break in Module CSkA_tb at correctedAdunare.v line 234
+# End time: 20:29:59 on Mar 28,2024, Elapsed time: 0:00:05
+# Errors: 0, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:31:50 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# -- Compiling module CSkA_tb
+# 
+# Top level modules:
+# 	CSkA_tb
+# End time: 20:31:50 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" CSkA_tb 
+# Start time: 20:31:50 on Mar 28,2024
+# Loading work.CSkA_tb
+# Loading work.CSkA
+# Loading work.makeXor
+# Loading work.RCA
+# Loading work.FAC
+# Loading work.RCA_Star
+# Loading work.FAC_Star
+# End time: 20:31:52 on Mar 28,2024, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 0
+# Load canceled
+vsim -voptargs=+acc 1
+# vsim -voptargs="+acc" 1 
+# Start time: 20:38:20 on Mar 28,2024
+# ** Error: (vsim-3170) Could not find '1'.
+#         Searched libraries:
+#             C:/Users/Vlad/Desktop/vesea oc/work
+# Error loading design
+# End time: 20:38:20 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:38:25 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# -- Compiling module CSkA_tb
+# 
+# Top level modules:
+# 	CSkA_tb
+# End time: 20:38:25 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" CSkA_tb 
+# Start time: 20:38:25 on Mar 28,2024
+# Loading work.CSkA_tb
+# Loading work.CSkA
+# Loading work.makeXor
+# Loading work.RCA
+# Loading work.FAC
+# Loading work.RCA_Star
+# Loading work.FAC_Star
+# End time: 20:38:27 on Mar 28,2024, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:47:53 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# -- Compiling module CSkA_tb
+# 
+# Top level modules:
+# 	CSkA_tb
+# End time: 20:47:53 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" CSkA_tb 
+# Start time: 20:47:53 on Mar 28,2024
+# Loading work.CSkA_tb
+# Loading work.CSkA
+# Loading work.makeXor
+# Loading work.RCA
+# Loading work.FAC
+# Loading work.RCA_Star
+# Loading work.FAC_Star
+# End time: 20:47:55 on Mar 28,2024, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:48:14 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# -- Compiling module CSkA_tb
+# ** Error: correctedAdunare.v(232): (vlog-2123) Missing argument for format specification '%d'.
+# End time: 20:48:14 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:49:15 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# -- Compiling module CSkA_tb
+# 
+# Top level modules:
+# 	CSkA_tb
+# End time: 20:49:15 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" CSkA_tb 
+# Start time: 20:49:15 on Mar 28,2024
+# Loading work.CSkA_tb
+# Loading work.CSkA
+# Loading work.makeXor
+# Loading work.RCA
+# Loading work.FAC
+# Loading work.RCA_Star
+# Loading work.FAC_Star
+# X=        10 Y=        15 cin=0 sum=                    X cout=x
+# End time: 20:49:22 on Mar 28,2024, Elapsed time: 0:00:07
+# Errors: 0, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:56:54 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# -- Compiling module CSkA_tb
+# 
+# Top level modules:
+# 	CSkA_tb
+# End time: 20:56:54 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" CSkA_tb 
+# Start time: 20:56:54 on Mar 28,2024
+# Loading work.CSkA_tb
+# Loading work.CSkA
+# Loading work.makeXor
+# Loading work.RCA
+# Loading work.FAC
+# Loading work.RCA_Star
+# Loading work.FAC_Star
+# End time: 20:56:58 on Mar 28,2024, Elapsed time: 0:00:04
+# Errors: 0, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:57:14 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# -- Compiling module CSkA_tb
+# 
+# Top level modules:
+# 	CSkA_tb
+# End time: 20:57:14 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" CSkA_tb 
+# Start time: 20:57:14 on Mar 28,2024
+# Loading work.CSkA_tb
+# Loading work.CSkA
+# Loading work.makeXor
+# Loading work.RCA
+# Loading work.FAC
+# Loading work.RCA_Star
+# Loading work.FAC_Star
+# End time: 20:57:18 on Mar 28,2024, Elapsed time: 0:00:04
+# Errors: 0, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:58:09 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# -- Compiling module CSkA_tb
+# 
+# Top level modules:
+# 	CSkA_tb
+# End time: 20:58:09 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" CSkA_tb 
+# Start time: 20:58:09 on Mar 28,2024
+# Loading work.CSkA_tb
+# Loading work.CSkA
+# Loading work.makeXor
+# Loading work.RCA
+# Loading work.FAC
+# Loading work.RCA_Star
+# Loading work.FAC_Star
+# End time: 20:58:11 on Mar 28,2024, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:59:44 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# -- Compiling module CSkA_tb
+# 
+# Top level modules:
+# 	CSkA_tb
+# End time: 20:59:44 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" CSkA_tb 
+# Start time: 20:59:44 on Mar 28,2024
+# Loading work.CSkA_tb
+# Loading work.CSkA
+# Loading work.makeXor
+# Loading work.RCA
+# Loading work.FAC
+# Loading work.RCA_Star
+# Loading work.FAC_Star
+# X=        10 Y=        15 sum=                    X cin=0 cout=x 
+# End time: 20:59:52 on Mar 28,2024, Elapsed time: 0:00:08
+# Errors: 0, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:00:19 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# -- Compiling module CSkA_tb
+# 
+# Top level modules:
+# 	CSkA_tb
+# End time: 21:00:19 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" CSkA_tb 
+# Start time: 21:00:19 on Mar 28,2024
+# Loading work.CSkA_tb
+# Loading work.CSkA
+# Loading work.makeXor
+# Loading work.RCA
+# Loading work.FAC
+# Loading work.RCA_Star
+# Loading work.FAC_Star
+# X=        10 Y=        15 sum=                    X cin=0 cout=x 
+# End time: 21:00:21 on Mar 28,2024, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:06:25 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# ** Error: correctedAdunare.v(116): (vlog-2110) Illegal reference to net "sum".
+# -- Compiling module CSkA_tb
+# End time: 21:06:25 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:06:48 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# -- Compiling module CSkA_tb
+# 
+# Top level modules:
+# 	CSkA_tb
+# End time: 21:06:48 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" CSkA_tb 
+# Start time: 21:06:48 on Mar 28,2024
+# Loading work.CSkA_tb
+# Loading work.CSkA
+# Loading work.makeXor
+# Loading work.RCA
+# Loading work.FAC
+# Loading work.RCA_Star
+# Loading work.FAC_Star
+# X=        10 Y=        15 sum=                    X cin=0 cout=x 
+# End time: 21:06:50 on Mar 28,2024, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:07:17 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# -- Compiling module CSkA_tb
+# 
+# Top level modules:
+# 	RCA
+# 	RCA_Star
+# 	CSkA_tb
+# End time: 21:07:17 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" CSkA_tb 
+# Start time: 21:07:17 on Mar 28,2024
+# Loading work.CSkA_tb
+# Loading work.CSkA
+# Loading work.makeXor
+# X=        10 Y=        15 sum=                    0 cin=0 cout=z 
+# End time: 21:07:19 on Mar 28,2024, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:10:58 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# ** Error: (vlog-13069) correctedAdunare.v(168): near "*": syntax error, unexpected '*'.
+# ** Error (suppressible): correctedAdunare.v(186): (vlog-2388) 'X' already declared in this scope (CSkA).
+# ** Error (suppressible): correctedAdunare.v(187): (vlog-2388) 'Y' already declared in this scope (CSkA).
+# ** Error (suppressible): correctedAdunare.v(188): (vlog-2388) 'X2' already declared in this scope (CSkA).
+# ** Error (suppressible): correctedAdunare.v(189): (vlog-2388) 'Y2' already declared in this scope (CSkA).
+# ** Error (suppressible): correctedAdunare.v(190): (vlog-2388) 'X3' already declared in this scope (CSkA).
+# ** Error (suppressible): correctedAdunare.v(191): (vlog-2388) 'Y3' already declared in this scope (CSkA).
+# ** Error (suppressible): correctedAdunare.v(192): (vlog-2388) 'cin' already declared in this scope (CSkA).
+# ** Error (suppressible): correctedAdunare.v(195): (vlog-2388) 'cout' already declared in this scope (CSkA).
+# ** Error (suppressible): correctedAdunare.v(196): (vlog-2388) 'cout2' already declared in this scope (CSkA).
+# ** Error (suppressible): correctedAdunare.v(197): (vlog-2388) 'cout3' already declared in this scope (CSkA).
+# ** Error (suppressible): correctedAdunare.v(198): (vlog-2388) 'sum' already declared in this scope (CSkA).
+# ** Error (suppressible): correctedAdunare.v(199): (vlog-2388) 'sum2' already declared in this scope (CSkA).
+# ** Error (suppressible): correctedAdunare.v(200): (vlog-2388) 'sum3' already declared in this scope (CSkA).
+# End time: 21:10:58 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 14, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:11:25 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# -- Compiling module CSkA_tb
+# 
+# Top level modules:
+# 	CSkA_tb
+# End time: 21:11:25 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" CSkA_tb 
+# Start time: 21:11:25 on Mar 28,2024
+# Loading work.CSkA_tb
+# Loading work.CSkA
+# Loading work.makeXor
+# Loading work.RCA
+# Loading work.FAC
+# Loading work.RCA_Star
+# Loading work.FAC_Star
+# X=        10 Y=        15 sum=                    X cin=0 cout=0 
+# End time: 21:11:27 on Mar 28,2024, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:14:46 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# -- Compiling module CSkA_tb
+# 
+# Top level modules:
+# 	CSkA_tb
+# End time: 21:14:46 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" CSkA_tb 
+# Start time: 21:14:46 on Mar 28,2024
+# Loading work.CSkA_tb
+# Loading work.CSkA
+# Loading work.makeXor
+# Loading work.RCA
+# Loading work.FAC
+# Loading work.RCA_Star
+# Loading work.FAC_Star
+# X=        10 Y=        15 sum=         X cin=0 cout=0 
+# End time: 21:14:48 on Mar 28,2024, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:15:08 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# -- Compiling module CSkA_tb
+# 
+# Top level modules:
+# 	CSkA_tb
+# End time: 21:15:08 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" CSkA_tb 
+# Start time: 21:15:08 on Mar 28,2024
+# Loading work.CSkA_tb
+# Loading work.CSkA
+# Loading work.makeXor
+# Loading work.RCA
+# Loading work.FAC
+# Loading work.RCA_Star
+# Loading work.FAC_Star
+# X=        10 Y=        15 sum=         X cin=0 cout=0 
+# End time: 21:15:09 on Mar 28,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:19:46 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# ** Error: correctedAdunare.v(133): 'RCA0' already declared in this scope.
+# ** Error: correctedAdunare.v(134): 'RCA0' already declared in this scope.
+# ** Error: correctedAdunare.v(135): 'RCA0' already declared in this scope.
+# -- Compiling module CSkA_tb
+# End time: 21:19:46 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:20:11 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# -- Compiling module CSkA_tb
+# 
+# Top level modules:
+# 	RCA_Star
+# 	CSkA_tb
+# End time: 21:20:11 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" CSkA_tb 
+# Start time: 21:20:11 on Mar 28,2024
+# Loading work.CSkA_tb
+# Loading work.CSkA
+# Loading work.makeXor
+# Loading work.RCA
+# Loading work.FAC
+# X=        10 Y=        15 sum=         X cin=0 cout=0 
+# End time: 21:20:12 on Mar 28,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:23:32 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# -- Compiling module CSkA_tb
+# 
+# Top level modules:
+# 	RCA_Star
+# 	makeXor
+# 	CSkA_tb
+# End time: 21:23:32 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" CSkA_tb 
+# Start time: 21:23:32 on Mar 28,2024
+# Loading work.CSkA_tb
+# Loading work.CSkA
+# Loading work.RCA
+# Loading work.FAC
+# X=        10 Y=        15 sum=         X cin=0 cout=0 
+# End time: 21:23:33 on Mar 28,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:30:59 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# -- Compiling module CSkA_tb
+# 
+# Top level modules:
+# 	RCA_Star
+# 	makeXor
+# 	CSkA_tb
+# End time: 21:30:59 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" CSkA_tb 
+# Start time: 21:31:00 on Mar 28,2024
+# Loading work.CSkA_tb
+# Loading work.CSkA
+# Loading work.RCA
+# Loading work.FAC
+# X=        10 Y=        15 sum=         X cin=0 cout=0 
+# End time: 21:31:02 on Mar 28,2024, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:36:46 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# -- Compiling module CSkA_tb
+# ** Error (suppressible): correctedAdunare.v(242): (vlog-13169) Packed dimension must specify a range.
+# End time: 21:36:46 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:37:29 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# -- Compiling module CSkA_tb
+# ** Error (suppressible): correctedAdunare.v(242): (vlog-13169) Packed dimension must specify a range.
+# End time: 21:37:29 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:37:35 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# -- Compiling module CSkA_tb
+# 
+# Top level modules:
+# 	RCA_Star
+# 	makeXor
+# 	CSkA_tb
+# End time: 21:37:35 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" CSkA_tb 
+# Start time: 21:37:36 on Mar 28,2024
+# Loading work.CSkA_tb
+# Loading work.CSkA
+# Loading work.RCA
+# Loading work.FAC
+# X=        10 Y=        15 sum=         X cin=0 cout=0 
+# x1=  5,x2=  3,sum=  8,cout=0,cin=1
+# End time: 21:37:37 on Mar 28,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:43:36 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# -- Compiling module CSkA_tb
+# 
+# Top level modules:
+# 	RCA_Star
+# 	makeXor
+# 	CSkA_tb
+# End time: 21:43:36 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" CSkA_tb 
+# Start time: 21:43:36 on Mar 28,2024
+# Loading work.CSkA_tb
+# Loading work.CSkA
+# Loading work.RCA
+# Loading work.FAC
+# X=        10 Y=        15 sum=         X cin=0 cout=0 
+# End time: 21:43:37 on Mar 28,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:44:49 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# -- Compiling module CSkA_tb
+# 
+# Top level modules:
+# 	RCA
+# 	RCA_Star
+# 	makeXor
+# 	CSkA_tb
+# End time: 21:44:49 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" CSkA_tb 
+# Start time: 21:44:49 on Mar 28,2024
+# Loading work.CSkA_tb
+# Loading work.CSkA
+# X=        10 Y=        15 sum=         6 cin=0 cout=0 
+# End time: 21:44:51 on Mar 28,2024, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:45:02 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# -- Compiling module CSkA_tb
+# 
+# Top level modules:
+# 	RCA_Star
+# 	makeXor
+# 	CSkA_tb
+# End time: 21:45:02 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" CSkA_tb 
+# Start time: 21:45:02 on Mar 28,2024
+# Loading work.CSkA_tb
+# Loading work.CSkA
+# Loading work.RCA
+# Loading work.FAC
+# X=        10 Y=        15 sum=         X cin=0 cout=0 
+# End time: 21:45:04 on Mar 28,2024, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:45:43 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# ** Error: (vlog-13069) correctedAdunare.v(106): near "output": syntax error, unexpected output, expecting IDENTIFIER or '.'.
+# End time: 21:45:43 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:46:12 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# ** Error: (vlog-13069) correctedAdunare.v(109): near "output": syntax error, unexpected output, expecting IDENTIFIER or '.'.
+# End time: 21:46:12 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:46:37 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# ** Error: correctedAdunare.v(116): Register is illegal in left-hand side of continuous assignment
+# ** Error: correctedAdunare.v(117): Register is illegal in left-hand side of continuous assignment
+# -- Compiling module CSkA_tb
+# End time: 21:46:37 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:46:56 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# ** Error: correctedAdunare.v(116): Register is illegal in left-hand side of continuous assignment
+# ** Error: correctedAdunare.v(117): Register is illegal in left-hand side of continuous assignment
+# -- Compiling module CSkA_tb
+# End time: 21:46:56 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:47:07 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# -- Compiling module CSkA_tb
+# 
+# Top level modules:
+# 	RCA_Star
+# 	makeXor
+# 	CSkA_tb
+# End time: 21:47:07 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" CSkA_tb 
+# Start time: 21:47:07 on Mar 28,2024
+# Loading work.CSkA_tb
+# Loading work.CSkA
+# Loading work.RCA
+# Loading work.FAC
+# ** Error (suppressible): (vsim-3053) correctedAdunare.v(132): Illegal output or inout port connection for port 'sum'.
+#    Time: 0 ps  Iteration: 0  Instance: /CSkA_tb/CSkA_inst/RCA0 File: correctedAdunare.v
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./run_correctedAdunare.txt PAUSED at line 25
+vsim -voptargs=+acc 1
+# vsim -voptargs="+acc" 1 
+# Start time: 21:47:07 on Mar 28,2024
+# ** Error: (vsim-3170) Could not find '1'.
+#         Searched libraries:
+#             C:/Users/Vlad/Desktop/vesea oc/work
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./run_correctedAdunare.txt PAUSED at line 25
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# End time: 21:47:33 on Mar 28,2024, Elapsed time: 0:00:26
+# Errors: 2, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:47:33 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# -- Compiling module CSkA_tb
+# 
+# Top level modules:
+# 	RCA_Star
+# 	makeXor
+# 	CSkA_tb
+# End time: 21:47:33 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" CSkA_tb 
+# Start time: 21:47:33 on Mar 28,2024
+# Loading work.CSkA_tb
+# Loading work.CSkA
+# Loading work.RCA
+# Loading work.FAC
+# X=        10 Y=        15 sum=         Z cin=0 cout=z 
+# End time: 21:47:35 on Mar 28,2024, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:47:48 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# -- Compiling module CSkA_tb
+# 
+# Top level modules:
+# 	RCA_Star
+# 	makeXor
+# 	CSkA_tb
+# End time: 21:47:48 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" CSkA_tb 
+# Start time: 21:47:48 on Mar 28,2024
+# Loading work.CSkA_tb
+# Loading work.CSkA
+# Loading work.RCA
+# Loading work.FAC
+# X=        10 Y=        15 sum=         Z cin=0 cout=z 
+# End time: 21:47:49 on Mar 28,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:48:04 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# -- Compiling module CSkA_tb
+# 
+# Top level modules:
+# 	RCA_Star
+# 	makeXor
+# 	CSkA_tb
+# End time: 21:48:04 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" CSkA_tb 
+# Start time: 21:48:04 on Mar 28,2024
+# Loading work.CSkA_tb
+# Loading work.CSkA
+# Loading work.RCA
+# Loading work.FAC
+# X=        10 Y=        15 sum=        25 cin=0 cout=0 
+# End time: 21:48:05 on Mar 28,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:48:37 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# -- Compiling module CSkA_tb
+# 
+# Top level modules:
+# 	makeXor
+# 	CSkA_tb
+# End time: 21:48:37 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" CSkA_tb 
+# Start time: 21:48:37 on Mar 28,2024
+# Loading work.CSkA_tb
+# Loading work.CSkA
+# Loading work.RCA
+# Loading work.FAC
+# Loading work.RCA_Star
+# Loading work.FAC_Star
+# X=        10 Y=        15 sum=         Z cin=0 cout=0 
+# End time: 21:48:39 on Mar 28,2024, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:49:28 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# -- Compiling module CSkA_tb
+# 
+# Top level modules:
+# 	makeXor
+# 	CSkA_tb
+# End time: 21:49:28 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" CSkA_tb 
+# Start time: 21:49:28 on Mar 28,2024
+# Loading work.CSkA_tb
+# Loading work.CSkA
+# Loading work.RCA
+# Loading work.FAC
+# Loading work.RCA_Star
+# Loading work.FAC_Star
+# X=        10 Y=        15 sum=         Z cin=0 cout=0 
+# End time: 21:49:30 on Mar 28,2024, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:50:45 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# -- Compiling module CSkA_tb
+# 
+# Top level modules:
+# 	makeXor
+# 	CSkA_tb
+# End time: 21:50:45 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" CSkA_tb 
+# Start time: 21:50:45 on Mar 28,2024
+# Loading work.CSkA_tb
+# Loading work.CSkA
+# Loading work.RCA
+# Loading work.FAC
+# Loading work.RCA_Star
+# Loading work.FAC_Star
+# X=        10 Y=        15 sum=         Z cin=0 cout=0 
+# End time: 21:50:47 on Mar 28,2024, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:50:55 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# -- Compiling module CSkA_tb
+# 
+# Top level modules:
+# 	makeXor
+# 	CSkA_tb
+# End time: 21:50:55 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" CSkA_tb 
+# Start time: 21:50:55 on Mar 28,2024
+# Loading work.CSkA_tb
+# Loading work.CSkA
+# Loading work.RCA
+# Loading work.FAC
+# Loading work.RCA_Star
+# Loading work.FAC_Star
+# X=        10 Y=        15 sum=         Z cin=0 cout=0 
+# End time: 21:50:57 on Mar 28,2024, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 0
+do run_correctedAdunare.txt
+# correctedAdunare.v
+# CSkA_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 21:53:19 on Mar 28,2024
+# vlog -reportprogress 300 correctedAdunare.v 
+# -- Compiling module RCA
+# -- Compiling module FAC
+# -- Compiling module RCA_Star
+# -- Compiling module FAC_Star
+# -- Compiling module makeXor
+# -- Compiling module CSkA
+# -- Compiling module CSkA_tb
+# 
+# Top level modules:
+# 	RCA_Star
+# 	makeXor
+# 	CSkA_tb
+# End time: 21:53:19 on Mar 28,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" CSkA_tb 
+# Start time: 21:53:19 on Mar 28,2024
+# Loading work.CSkA_tb
+# Loading work.CSkA
+# Loading work.RCA
+# Loading work.FAC
+# X=        10 Y=        15 sum=        25 cin=0 cout=0 
+# End time: 21:53:21 on Mar 28,2024, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 0

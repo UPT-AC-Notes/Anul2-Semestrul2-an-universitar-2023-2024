@@ -1,0 +1,175 @@
+do run_cache.txt
+# cache.v cache_tb.v
+# struct_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:39:10 on May 31,2024
+# vlog -reportprogress 300 cache.v cache_tb.v 
+# -- Compiling module struct
+# -- Compiling module struct_tb
+# 
+# Top level modules:
+# 	struct_tb
+# End time: 22:39:10 on May 31,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" struct_tb 
+# Start time: 22:39:11 on May 31,2024
+# Loading work.struct_tb
+# Loading work.struct
+do run_cache.txt
+# cache.v cache_tb.v
+# struct_tb
+# End time: 22:52:18 on May 31,2024, Elapsed time: 0:13:07
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:52:18 on May 31,2024
+# vlog -reportprogress 300 cache.v cache_tb.v 
+# -- Compiling module struct
+# -- Compiling module struct_tb
+# 
+# Top level modules:
+# 	struct_tb
+# End time: 22:52:18 on May 31,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" struct_tb 
+# Start time: 22:52:18 on May 31,2024
+# Loading work.struct_tb
+# Loading work.struct
+do run_cache.txt
+# cache.v cache_tb.v
+# struct_tb
+# End time: 23:20:55 on May 31,2024, Elapsed time: 0:28:37
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:20:55 on May 31,2024
+# vlog -reportprogress 300 cache.v cache_tb.v 
+# -- Compiling module struct
+# -- Compiling module struct_tb
+# 
+# Top level modules:
+# 	struct_tb
+# End time: 23:20:55 on May 31,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" struct_tb 
+# Start time: 23:20:55 on May 31,2024
+# Loading work.struct_tb
+# Loading work.struct
+do run_cache.txt
+# cache.v cache_tb.v
+# struct_tb
+# End time: 23:29:26 on May 31,2024, Elapsed time: 0:08:31
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:29:26 on May 31,2024
+# vlog -reportprogress 300 cache.v cache_tb.v 
+# -- Compiling module struct
+# -- Compiling module struct_tb
+# 
+# Top level modules:
+# 	struct_tb
+# End time: 23:29:26 on May 31,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" struct_tb 
+# Start time: 23:29:27 on May 31,2024
+# Loading work.struct_tb
+# Loading work.struct
+do run_cache.txt
+# cache.v cache_tb.v
+# struct_tb
+# End time: 23:30:09 on May 31,2024, Elapsed time: 0:00:42
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:30:09 on May 31,2024
+# vlog -reportprogress 300 cache.v cache_tb.v 
+# -- Compiling module struct
+# -- Compiling module struct_tb
+# 
+# Top level modules:
+# 	struct_tb
+# End time: 23:30:09 on May 31,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" struct_tb 
+# Start time: 23:30:09 on May 31,2024
+# Loading work.struct_tb
+# Loading work.struct
+do run_cache.txt
+# cache.v cache_tb.v
+# struct_tb
+# End time: 23:35:16 on May 31,2024, Elapsed time: 0:05:07
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:35:17 on May 31,2024
+# vlog -reportprogress 300 cache.v cache_tb.v 
+# -- Compiling module struct
+# -- Compiling module struct_tb
+# 
+# Top level modules:
+# 	struct_tb
+# End time: 23:35:17 on May 31,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" struct_tb 
+# Start time: 23:35:17 on May 31,2024
+# Loading work.struct_tb
+# Loading work.struct
+do run_cache.txt
+# cache.v cache_tb.v
+# struct_tb
+# End time: 23:36:50 on May 31,2024, Elapsed time: 0:01:33
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:36:50 on May 31,2024
+# vlog -reportprogress 300 cache.v cache_tb.v 
+# -- Compiling module struct
+# -- Compiling module struct_tb
+# 
+# Top level modules:
+# 	struct_tb
+# End time: 23:36:50 on May 31,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" struct_tb 
+# Start time: 23:36:50 on May 31,2024
+# Loading work.struct_tb
+# Loading work.struct
+do run_cache.txt
+# cache.v cache_tb.v
+# struct_tb
+# End time: 23:39:27 on May 31,2024, Elapsed time: 0:02:37
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:39:27 on May 31,2024
+# vlog -reportprogress 300 cache.v cache_tb.v 
+# -- Compiling module struct
+# -- Compiling module struct_tb
+# ** Error: (vlog-13051) cache_tb.v(53): near "1": Illegal digit for specified base in numeric constant.
+# ** Error: (vlog-13051) cache_tb.v(62): Illegal digit for specified base in numeric constant.
+# End time: 23:39:27 on May 31,2024, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+do run_cache.txt
+# cache.v cache_tb.v
+# struct_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:39:51 on May 31,2024
+# vlog -reportprogress 300 cache.v cache_tb.v 
+# -- Compiling module struct
+# -- Compiling module struct_tb
+# ** Error: (vlog-13069) cache_tb.v(288): near "*": syntax error, unexpected '*'.
+# End time: 23:39:51 on May 31,2024, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+do run_cache.txt
+# cache.v cache_tb.v
+# struct_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 23:40:08 on May 31,2024
+# vlog -reportprogress 300 cache.v cache_tb.v 
+# -- Compiling module struct
+# -- Compiling module struct_tb
+# 
+# Top level modules:
+# 	struct_tb
+# End time: 23:40:09 on May 31,2024, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" struct_tb 
+# Start time: 23:40:09 on May 31,2024
+# Loading work.struct_tb
+# Loading work.struct
+# End time: 23:43:22 on May 31,2024, Elapsed time: 0:03:13
+# Errors: 0, Warnings: 0

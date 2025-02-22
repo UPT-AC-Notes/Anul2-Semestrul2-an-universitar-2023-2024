@@ -1,0 +1,155 @@
+do run_cache.txt
+# cache.v cache_tb.v
+# CacheController_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 07:04:32 on May 31,2024
+# vlog -reportprogress 300 cache.v cache_tb.v 
+# -- Compiling module CacheController
+# -- Compiling module CacheController_tb
+# 
+# Top level modules:
+# 	CacheController_tb
+# End time: 07:04:32 on May 31,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" CacheController_tb 
+# Start time: 07:04:32 on May 31,2024
+# Loading work.CacheController_tb
+# Loading work.CacheController
+# Test 1 Passed: Read Hit
+# Test 2 Failed: Write Hit
+# Test 3 Failed: Read Miss then Read Hit
+# Test 4 Failed: Write Miss then Write Hit
+# Test 5 Failed: Read Miss then Write Hit
+# Test 6 Failed: Read Miss (Expected Fail)
+# Test 7 Failed: Write Miss (Expected Fail)
+# Test 8 Failed: Read Hit with Wrong Data (Expected Fail)
+# Test 9 Failed: Write Hit with Incorrect Data (Expected Fail)
+# Test 10 Failed: Read Miss with Incorrect Data (Expected Fail)
+# Test 11 Failed: Write Miss with Incorrect Data (Expected Fail)
+# Test 12 Failed: Read Hit with Wrong Data (Expected Fail)
+# Test 13 Failed: Write Hit with Incorrect Data (Expected Fail)
+# Test 14 Failed: Read Miss with Incorrect Data (Expected Fail)
+# Test 15 Failed: Write Miss with Incorrect Data (Expected Fail)
+do run_cache.txt
+# cache.v cache_tb.v
+# CacheController_tb
+# End time: 07:06:09 on May 31,2024, Elapsed time: 0:01:37
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 07:06:09 on May 31,2024
+# vlog -reportprogress 300 cache.v cache_tb.v 
+# -- Compiling module CacheController
+# -- Compiling module CacheController_tb
+# 
+# Top level modules:
+# 	CacheController_tb
+# End time: 07:06:09 on May 31,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" CacheController_tb 
+# Start time: 07:06:09 on May 31,2024
+# Loading work.CacheController_tb
+# Loading work.CacheController
+# Test 1 Failed: Read Hit
+# Test 2 Failed: Write Hit
+# Test 3 Failed: Read Miss then Read Hit
+# Test 4 Failed: Write Miss then Write Hit
+# Test 5 Failed: Read Miss then Write Hit
+# Test 6 Failed: Read Miss (Expected Fail)
+# Test 7 Failed: Write Miss (Expected Fail)
+# Test 8 Failed: Read Hit with Wrong Data (Expected Fail)
+# Test 9 Failed: Write Hit with Incorrect Data (Expected Fail)
+# Test 10 Failed: Read Miss with Incorrect Data (Expected Fail)
+# Test 11 Failed: Write Miss with Incorrect Data (Expected Fail)
+# Test 12 Failed: Read Hit with Wrong Data (Expected Fail)
+# Test 13 Failed: Write Hit with Incorrect Data (Expected Fail)
+# Test 14 Failed: Read Miss with Incorrect Data (Expected Fail)
+# Test 15 Failed: Write Miss with Incorrect Data (Expected Fail)
+do run_cache.txt
+# cache.v cache_tb.v
+# CacheController_tb
+# End time: 07:37:49 on May 31,2024, Elapsed time: 0:31:40
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 07:37:49 on May 31,2024
+# vlog -reportprogress 300 cache.v cache_tb.v 
+# -- Compiling module cache_controller
+# ** Error: (vlog-13032) cache.v(18): near "reg": Syntax error.
+# ** Error: (vlog-13032) cache.v(38): near ",": Syntax error.
+# ** Error: (vlog-13069) cache.v(135): near "begin": syntax error, unexpected begin.
+# ** Error (suppressible): cache_tb.v(3): (vlog-2388) 'clk' already declared in this scope (cache_controller).
+# ** Error (suppressible): cache_tb.v(5): (vlog-2388) 'address' already declared in this scope (cache_controller).
+# ** Error (suppressible): cache_tb.v(6): (vlog-2388) 'write_data' already declared in this scope (cache_controller).
+# ** Error (suppressible): cache_tb.v(7): (vlog-2388) 'read' already declared in this scope (cache_controller).
+# ** Error (suppressible): cache_tb.v(8): (vlog-2388) 'write' already declared in this scope (cache_controller).
+# ** Error (suppressible): cache_tb.v(9): (vlog-2388) 'read_data' already declared in this scope (cache_controller).
+# ** Error (suppressible): cache_tb.v(10): (vlog-2388) 'hit' already declared in this scope (cache_controller).
+# ** Error (suppressible): cache_tb.v(11): (vlog-2388) 'miss' already declared in this scope (cache_controller).
+# End time: 07:37:49 on May 31,2024, Elapsed time: 0:00:00
+# Errors: 11, Warnings: 0
+do run_cache.txt
+# cache.v cache_tb.v
+# CacheController_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 07:40:17 on May 31,2024
+# vlog -reportprogress 300 cache.v cache_tb.v 
+# -- Compiling module cache_controller
+# ** Error: (vlog-13069) cache.v(155): near "begin": syntax error, unexpected begin.
+# ** Error (suppressible): cache_tb.v(3): (vlog-2388) 'clk' already declared in this scope (cache_controller).
+# ** Error (suppressible): cache_tb.v(5): (vlog-2388) 'address' already declared in this scope (cache_controller).
+# ** Error (suppressible): cache_tb.v(6): (vlog-2388) 'write_data' already declared in this scope (cache_controller).
+# ** Error (suppressible): cache_tb.v(7): (vlog-2388) 'read' already declared in this scope (cache_controller).
+# ** Error (suppressible): cache_tb.v(8): (vlog-2388) 'write' already declared in this scope (cache_controller).
+# ** Error (suppressible): cache_tb.v(9): (vlog-2388) 'read_data' already declared in this scope (cache_controller).
+# ** Error (suppressible): cache_tb.v(10): (vlog-2388) 'hit' already declared in this scope (cache_controller).
+# ** Error (suppressible): cache_tb.v(11): (vlog-2388) 'miss' already declared in this scope (cache_controller).
+# End time: 07:40:17 on May 31,2024, Elapsed time: 0:00:00
+# Errors: 9, Warnings: 0
+do run_cache.txt
+# cache.v cache_tb.v
+# CacheController_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 07:40:59 on May 31,2024
+# vlog -reportprogress 300 cache.v cache_tb.v 
+# -- Compiling module cache_controller
+# ** Error: (vlog-13069) cache.v(152): near "begin": syntax error, unexpected begin.
+# ** Error (suppressible): cache_tb.v(3): (vlog-2388) 'clk' already declared in this scope (cache_controller).
+# ** Error (suppressible): cache_tb.v(5): (vlog-2388) 'address' already declared in this scope (cache_controller).
+# ** Error (suppressible): cache_tb.v(6): (vlog-2388) 'write_data' already declared in this scope (cache_controller).
+# ** Error (suppressible): cache_tb.v(7): (vlog-2388) 'read' already declared in this scope (cache_controller).
+# ** Error (suppressible): cache_tb.v(8): (vlog-2388) 'write' already declared in this scope (cache_controller).
+# ** Error (suppressible): cache_tb.v(9): (vlog-2388) 'read_data' already declared in this scope (cache_controller).
+# ** Error (suppressible): cache_tb.v(10): (vlog-2388) 'hit' already declared in this scope (cache_controller).
+# ** Error (suppressible): cache_tb.v(11): (vlog-2388) 'miss' already declared in this scope (cache_controller).
+# End time: 07:40:59 on May 31,2024, Elapsed time: 0:00:00
+# Errors: 9, Warnings: 0
+do run_cache.txt
+# cache.v cache_tb.v
+# CacheController_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 07:42:04 on May 31,2024
+# vlog -reportprogress 300 cache.v cache_tb.v 
+# -- Compiling module cache_controller
+# ** Error: (vlog-13069) cache.v(167): near "begin": syntax error, unexpected begin.
+# ** Error (suppressible): cache_tb.v(3): (vlog-2388) 'clk' already declared in this scope (cache_controller).
+# ** Error (suppressible): cache_tb.v(5): (vlog-2388) 'address' already declared in this scope (cache_controller).
+# ** Error (suppressible): cache_tb.v(6): (vlog-2388) 'write_data' already declared in this scope (cache_controller).
+# ** Error (suppressible): cache_tb.v(7): (vlog-2388) 'read' already declared in this scope (cache_controller).
+# ** Error (suppressible): cache_tb.v(8): (vlog-2388) 'write' already declared in this scope (cache_controller).
+# ** Error (suppressible): cache_tb.v(9): (vlog-2388) 'read_data' already declared in this scope (cache_controller).
+# ** Error (suppressible): cache_tb.v(10): (vlog-2388) 'hit' already declared in this scope (cache_controller).
+# ** Error (suppressible): cache_tb.v(11): (vlog-2388) 'miss' already declared in this scope (cache_controller).
+# End time: 07:42:04 on May 31,2024, Elapsed time: 0:00:00
+# Errors: 9, Warnings: 0
+do run_cache.txt
+# cache.v cache_tb.v
+# CacheController_tb
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 07:42:14 on May 31,2024
+# vlog -reportprogress 300 cache.v cache_tb.v 
+# -- Compiling module cache_controller
+# ** Error: (vlog-13069) cache.v(180): near "=": syntax error, unexpected '=', expecting ++ or --.
+# ** Error: cache.v(187): (vlog-2730) Undefined variable: 'CHECK_DIRTY_FOR_LRU_R'.
+# ** Error: cache.v(190): (vlog-2730) Undefined variable: 'CHECK_DIRTY_FOR_LRU_W'.
+# -- Compiling module CacheController_tb
+# End time: 07:42:14 on May 31,2024, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0

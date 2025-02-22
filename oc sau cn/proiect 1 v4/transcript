@@ -1,0 +1,63 @@
+do ocproject.txt
+# GenProp.v fastAdder32.v multiplier32.v ariRightShift.v fastAdder4.v mux2.v arithmeticRightShift.v helperAND.v bitwiseAND.v leftShift.v rightShift.v bitwiseNOT.v lessThan.v subtractor32.v bitwiseOR.v logicalLeftShift.v testbench.v bitwiseXOR.v logicalRightShift.v equalTo.v main.v twoscomplement.v 
+# testbench
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:03:11 on Mar 19,2024
+# vlog -reportprogress 300 GenProp.v fastAdder32.v multiplier32.v ariRightShift.v fastAdder4.v mux2.v arithmeticRightShift.v helperAND.v bitwiseAND.v leftShift.v rightShift.v bitwiseNOT.v lessThan.v subtractor32.v bitwiseOR.v logicalLeftShift.v testbench.v bitwiseXOR.v logicalRightShift.v equalTo.v main.v twoscomplement.v 
+# -- Compiling module GenProp
+# -- Compiling module fastAdder32
+# -- Compiling module multiplier32
+# -- Compiling module ariRightShift
+# -- Compiling module fastAdder4
+# -- Compiling module mux2
+# -- Compiling module arithmeticRightShift
+# -- Compiling module helperAND
+# -- Compiling module bitwiseAND
+# -- Compiling module leftShift
+# -- Compiling module rightShift
+# -- Compiling module bitwiseNOT
+# -- Compiling module lessThan
+# -- Compiling module subtractor32
+# -- Compiling module bitwiseOR
+# -- Compiling module logicalLeftShift
+# -- Compiling module testbench
+# -- Compiling module bitwiseXOR
+# -- Compiling module logicalRightShift
+# -- Compiling module equalTo
+# -- Compiling module main
+# -- Compiling module twoscomplement
+# 
+# Top level modules:
+# 	ariRightShift
+# 	helperAND
+# 	testbench
+# End time: 22:03:11 on Mar 19,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" testbench 
+# Start time: 22:03:12 on Mar 19,2024
+# Loading work.testbench
+# Loading work.main
+# Loading work.fastAdder32
+# Loading work.GenProp
+# Loading work.multiplier32
+# Loading work.subtractor32
+# Loading work.bitwiseNOT
+# Loading work.twoscomplement
+# Loading work.bitwiseAND
+# Loading work.bitwiseOR
+# Loading work.logicalLeftShift
+# Loading work.logicalRightShift
+# Loading work.arithmeticRightShift
+# Loading work.bitwiseXOR
+# Loading work.lessThan
+# Loading work.equalTo
+# Loading work.fastAdder4
+# Loading work.leftShift
+# Loading work.mux2
+# ** Warning: (vsim-3017) main.v(55): [TFMPC] - Too few port connections. Expected 3, found 2.
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/unit/U10 File: bitwiseXOR.v
+# ** Warning: (vsim-3722) main.v(55): [TFMPC] - Missing connection for port 'S'.
+# A=         5 B=         5 control= 1 S=        25 carry=0 overflow=0 lessthan=0 equalto=0 zero=0
+# A=2147483648 B=         2 control= 1 S=         0 carry=0 overflow=1 lessthan=0 equalto=0 zero=1
+# End time: 22:03:15 on Mar 19,2024, Elapsed time: 0:00:03
+# Errors: 0, Warnings: 2

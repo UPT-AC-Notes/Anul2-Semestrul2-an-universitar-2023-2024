@@ -1,0 +1,28 @@
+# add all Verilog source files, separated by spaces
+set sourcefiles {GenProp.v fastAdder32.v multiplier32.v ariRightShift.v fastAdder4.v mux2.v arithmeticRightShift.v helperAND.v bitwiseAND.v leftShift.v rightShift.v bitwiseNOT.v lessThan.v subtractor32.v bitwiseOR.v logicalLeftShift.v testbench.v bitwiseXOR.v logicalRightShift.v equalTo.v main.v twoscomplement.v }
+
+# set name of the top module
+set topmodule testbench
+
+###################################################
+#####DO NOT MODIFY THE SCRIPT BELLOW THIS LINE#####
+###################################################
+
+# quit current simulation if any
+quit -sim
+
+# empty the work library if present
+if [file exists "work"] {vdel -all}
+#create a new work library
+vlib work
+
+# run the compiler
+if [catch "eval vlog $sourcefiles"] {
+    puts "correct the compilation errors"
+    return
+}
+
+vsim -voptargs=+acc $topmodule
+
+run -all
+quit -sim
