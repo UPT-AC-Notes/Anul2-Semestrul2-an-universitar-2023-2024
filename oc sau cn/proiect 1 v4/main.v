@@ -39,7 +39,7 @@ module main(
     assign operation[9]=(control[0])&(!control[1])&(!control[2])&(control[3]);
     
     //Comparison
-    assign operation[10] = (!control[0])&(control[1])&(!control[2])&(control[3]);
+    assign operation[10]=(!control[0])&(control[1])&(!control[2])&(control[3]);
 
     wire [31:0] Stest[9:0];
     wire CARRY0,CARRY1,OVERFLOW, LESSTHAN, EQUALTO;    
